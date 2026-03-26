@@ -1,8 +1,8 @@
-# 漏洞描述
+# Affected versions
 ```
-v8.1sp2 v8.2 v8.2sp1 可以通过邮件重置密码
+v8.1sp2 v8.2 v8.2sp1 reset your password via email
 ```
-# 漏洞利用
+# Vulnerability Exploitation
 ```
-python3 致远OA邮件重置漏洞脚本.py
+python3 SeeyonOAPasswordreset.py
 ```
